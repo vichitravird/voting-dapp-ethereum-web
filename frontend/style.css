@@ -40,7 +40,7 @@ body{
     }
 
 #votingStation{
-    display: none; /* none=>block*/
+    display: block; /* none=>block*/
     width: 100%;
     text-align: center;
     justify-content: center;
@@ -116,7 +116,7 @@ body{
                 }
     
     #showResultContainer{
-        display: none; /* none=>block*/
+        display: block; /* none=>block*/
     }
         #showResult{
             font-size: large;
@@ -134,7 +134,7 @@ body{
             }
 
     #result{
-        display: none; /* none=>flex*/
+        display: flex; /* none=>flex*/
         margin-top: 20px;
         border-top: 2px solid black;
     }
