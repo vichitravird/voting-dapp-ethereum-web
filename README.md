@@ -2,6 +2,7 @@
 This project involves development of a secure, Ethereum-based decentralized voting system, integrated with a web interface. The goal is to create a system that allows users to interact seamlessly with a blockchain voting platform.
 
 Link to the Ethereum based Voting Platform: https://vichitravird.github.io/voting-dapp-ethereum-web/frontend/index.html
+Link to Demo of the Website: https://youtu.be/fzLnYPYnf-c
 
 #how-to-use-voting-platform
 #Web-Interface
